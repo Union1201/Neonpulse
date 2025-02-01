@@ -10,7 +10,7 @@
 **Neonpulse** — это мощное Flet-приложение, которое позволяет **управлять запуском множества консолей одновременно**.  
 Программа предназначена для автоматизации процессов: **запуск тестнетов, нод, DePin-приложений и любых команд в консоли, задавая их всего 1 раз**.
 
-![Neonpulse Interface](https://raw.githubusercontent.com/Union1201/Neonpulse/issues/1/your-image.png)
+![Neonpulse Interface](https://github.com/Union1201/Neonpulse/issues/1#issue-2825461125)
 *(Пример интерфейса программы)*
 ---
 
